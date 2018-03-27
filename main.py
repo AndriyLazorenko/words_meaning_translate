@@ -24,19 +24,21 @@ class MeaningTranslator:
                 except:
                     ret.append('NO MEANING FOUND')
             elif len(w_list) == 2:
-                if w_list[1] == 'to':
+                if w_list[0] == 'to':
                     w = Word(w_list[1])
                     try:
                         v = w.get_synsets(pos=VERB)
                         ret.append(v[0].definition())
                     except:
                         ret.append('NO MEANING FOUND')
-                elif w_list[1] == 'a' or w_list[1] == 'an':
+                elif w_list[0] == 'a' or w_list[0] == 'an':
                     w = Word(w_list[1])
                     try:
                         ret.append(w.definitions[0])
                     except:
                         ret.append('NO MEANING FOUND')
+                else:
+                    ret.append('NOT IMPLEMENTED FOR 2 OR MORE WORDS')
             else:
                 ret.append('NOT IMPLEMENTED FOR 2 OR MORE WORDS')
         return ret

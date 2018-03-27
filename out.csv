@@ -96,7 +96,7 @@
 94,praise somewhat dishonestly,лестити,to flatter
 95,NOT IMPLEMENTED FOR 2 OR MORE WORDS,боротися з,to wrestle with
 96,one of greater rank or station or quality,начальник,superior
-97,NOT IMPLEMENTED FOR 2 OR MORE WORDS,відкат,a set-back
+97,structure where a wall or building narrows abruptly,відкат,a set-back
 98,give moral or emotional strength to,заспокійливий,soothing
 99,NOT IMPLEMENTED FOR 2 OR MORE WORDS,виходити з,to stem from
 100,NOT IMPLEMENTED FOR 2 OR MORE WORDS,племінний майданчик,breeding ground
@@ -135,7 +135,7 @@
 133,feeling or showing extreme anger,роздратований,irate
 134,give an injection to,вводити,to inject
 135,rebuking a person harshly,язик-клеймо,tongue-lashing
-136,NOT IMPLEMENTED FOR 2 OR MORE WORDS,козлом відпущення,a scapegoat
+136,someone who is punished for the errors of others,козлом відпущення,a scapegoat
 137,NOT IMPLEMENTED FOR 2 OR MORE WORDS,вибити свій стек,to blow one's stack
 138,deprive somebody of something by deceit,обдурити,to cheat
 139,a judgment disposing of the matter without a trial,звільнення,dismissal
@@ -143,7 +143,7 @@
 141,a mental position from which things are viewed,точки зору,standpoint
 142,deliver a sermon,проповідувати,to preach
 143,an address of a religious nature (usually delivered during a church service),проповідь,sermon
-144,NOT IMPLEMENTED FOR 2 OR MORE WORDS,десантник,a paratrooper
+144,a soldier in the paratroops,десантник,a paratrooper
 145,a substance from which another substance is formed (especially by a metabolic reaction),попередник,precursor
 146,a courteous or respectful or considerate act,люб'язно,courtesy
 147,assume a drooping posture or carriage,схопити,to slouch
@@ -187,12 +187,12 @@
 185,NOT IMPLEMENTED FOR 2 OR MORE WORDS,заміський будинок,suburban home
 186,NOT IMPLEMENTED FOR 2 OR MORE WORDS,додаткові пільги,fringe benefits
 187,a noticeable deterioration in performance or quality,спад,slump
-188,NOT IMPLEMENTED FOR 2 OR MORE WORDS,медичний працівник,a meddler
+188,an officious annoying person who interferes with others,медичний працівник,a meddler
 189,NOT IMPLEMENTED FOR 2 OR MORE WORDS,потиснути,to shrug off
 190,very bad,божевільний,lousy
-191,NOT IMPLEMENTED FOR 2 OR MORE WORDS,флоп,a flop
+191,an arithmetic operation performed on floating-point numbers,флоп,a flop
 192,NOT IMPLEMENTED FOR 2 OR MORE WORDS,перекласти,to put across
-193,NOT IMPLEMENTED FOR 2 OR MORE WORDS,перемир'я,a truce
+193,a state of peace agreed to between opponents so they can discuss peace terms,перемир'я,a truce
 194,projectiles to be fired from a gun,боєприпаси,ammunition
 195,(of persons or their actions) able or disposed to inflict pain or suffering,порочний,vicious
 196,(usually followed by `to') naturally disposed toward,apt,apt
@@ -204,7 +204,7 @@
 202,speak haltingly,заїкатися,to stutter
 203,speak haltingly,переймаючись,stammering
 204,the occurrence of a change for the worse,знецінення,impairment
-205,NOT IMPLEMENTED FOR 2 OR MORE WORDS, тривіальність, a triviality
+205,the quality of being unimportant and petty or frivolous, тривіальність, a triviality
 206,an untroubled state; free from disturbances,спокій,tranquillity
 207,"take temporary possession of as a security, by legal authority",закріплений,impounded
 208,a bitter quarrel between two parties,ворога,feud
@@ -237,7 +237,7 @@
 235,young plant or tree grown from a seed,саджанці,seedlings
 236,conducive to or characteristic of physical or moral well-being,корисний,wholesome
 237,a support consisting of an arrangement of straps for holding something to the body (especially one supporting a person suspended from a parachute),збруя,harness
-238,NOT IMPLEMENTED FOR 2 OR MORE WORDS,буфер обміну,a clipboard
+238,a small writing board with a clip at the top for holding papers,буфер обміну,a clipboard
 239,NOT IMPLEMENTED FOR 2 OR MORE WORDS,огородити,to fence in
 240,NOT IMPLEMENTED FOR 2 OR MORE WORDS,схоже на,akin to
 241,an ambiguity (especially one in the text of a law or contract) that makes it possible to evade a difficulty or obligation,лазівка,loophole
@@ -300,7 +300,7 @@
 298,become widely known and passed on,циркулювати,to circulate
 299,NOT IMPLEMENTED FOR 2 OR MORE WORDS,соціальна орбіта,social orbit
 300,a device or control that is very useful for a particular job,прилад,appliance
-301,NOT IMPLEMENTED FOR 2 OR MORE WORDS,ресторатор,a restaurateur
+301,the proprietor of a restaurant,ресторатор,a restaurateur
 302,difficult to detect or grasp by the mind or analyze,витончений,subtle
 303,NO MEANING FOUND,твердо,fest
 304,NOT IMPLEMENTED FOR 2 OR MORE WORDS,носити на,to bear on
@@ -323,7 +323,7 @@
 321,suggesting the operation of supernatural influences,непристойний,uncanny
 322,catch sight of,визначити,to spot
 323,an associative relation,зв'язок,linkage
-324,NOT IMPLEMENTED FOR 2 OR MORE WORDS,другокурсник,a sophomore
+324,a second-year undergraduate,другокурсник,a sophomore
 325,NOT IMPLEMENTED FOR 2 OR MORE WORDS,зареєструватися,to enroll in
 326,NO MEANING FOUND,патетично,pahetically
 327,a long narrow passage (as in a cave or woods),прохід,aisle
@@ -341,7 +341,7 @@
 339,having an elastic texture resembling rubber in flexibility or toughness,гумовий,rubbery
 340,NO MEANING FOUND,смити,gleep
 341,the process of taking food into the body through the mouth (as by eating),поглинання,uptake
-342,NOT IMPLEMENTED FOR 2 OR MORE WORDS,проповідь,a sermon
+342,an address of a religious nature (usually delivered during a church service),проповідь,a sermon
 343,forceful exertion,сила,vigor
 344,the process of decomposing organic matter (as in sewage) by bacteria or by chemical action or heat,травлення,digestion
 345,NO MEANING FOUND,вони думають,to misle
@@ -356,8 +356,8 @@
 354,a situation from which extrication is difficult especially an unpleasant or trying one,скрутне становище,predicament
 355,NO MEANING FOUND,слонова кістка,ivory-tower
 356,an embarrassing mistake,помилка,blunder
-357,NOT IMPLEMENTED FOR 2 OR MORE WORDS,гріх,a grump
-358,NOT IMPLEMENTED FOR 2 OR MORE WORDS,бордюр,a curb
+357,a bad-tempered person,гріх,a grump
+358,an edge between a sidewalk and a roadway consisting of a line of curbstones (usually forming part of a gutter),бордюр,a curb
 359,a courteous or respectful or considerate act,люб'язно,courtesy
 360,NO MEANING FOUND,п'ятдесятників,fiftyish
 361,NOT IMPLEMENTED FOR 2 OR MORE WORDS,ось ось,lo and behold
@@ -378,7 +378,7 @@
 376,"gather, as of natural products",збити,to harvest
 377,NO MEANING FOUND,газу-до,gas-up
 378,transparent screen (as of glass) to protect occupants of a vehicle,вітрове скло,windshield
-379,NOT IMPLEMENTED FOR 2 OR MORE WORDS,тривога,an attendant
+379,someone who waits on or tends to or attends to the needs of another,тривога,an attendant
 380,covered with a layer of dust,пильний,dusty
 381,a net of transparent fabric with a loose open weave,сітка,netting
 382,an open sore on the back of a horse caused by ill-fitting or badly adjusted saddle,може,gall
@@ -387,9 +387,9 @@
 385,a popular trend that attracts growing support,перемога,bandwagon
 386,an edge tool with a flat steel blade with a cutting edge,долото,chisel
 387,a person who leaves a tip,самоскид,tipper
-388,NOT IMPLEMENTED FOR 2 OR MORE WORDS,розмариття,a smudge
+388,a smoky fire to drive away insects,розмариття,a smudge
 389,NOT IMPLEMENTED FOR 2 OR MORE WORDS,заплатити,to set off
-390,NOT IMPLEMENTED FOR 2 OR MORE WORDS,перешкода,a hurdle
+390,a light movable barrier that competitors must leap over in certain races,перешкода,a hurdle
 391,moderately warm,теплий,lukewarm
 392,NOT IMPLEMENTED FOR 2 OR MORE WORDS,підтягнути,to pull up
 393,a V-shaped indentation,нот,notch
@@ -398,10 +398,10 @@
 396,stir up (water) so as to form ripples,рубати,to ruffle
 397,causing abrasion,царапини,scratchy
 398,a resentment strong enough to justify retaliation,скарги,grievance
-399,NOT IMPLEMENTED FOR 2 OR MORE WORDS,хабар,a bribe
+399,payment made to a person in a position of trust to corrupt his judgment,хабар,a bribe
 400,act or move at high speed,поспішати,to hasten
 401,an alcoholic beverage that is distilled rather than fermented,випий,booze
-402,NOT IMPLEMENTED FOR 2 OR MORE WORDS,презирство,a contempt
+402,lack of respect accompanied by a feeling of intense dislike,презирство,a contempt
 403,one after the other,послідовний,consecutive
 404,showing a high degree of refinement and the assurance that comes from wide social experience,міський,urbane
 405,people who are fearful and cautious,боязкий,timid
@@ -415,27 +415,27 @@
 413,happening in or being of another town or city,у від'їзді,out-of-town
 414,a person regarded as greedy and pig-like,свинячий,hog
 415,be in a huff and display one's displeasure,заглушити,to sulk
-416,NOT IMPLEMENTED FOR 2 OR MORE WORDS,хафф,a huff
+416,a state of irritation or annoyance,хафф,a huff
 417,censure severely or angrily,берити,to berate
-418,NOT IMPLEMENTED FOR 2 OR MORE WORDS,невдача,a setback
+418,an unfortunate happening that hinders or impedes; something that is thwarting or frustrating,невдача,a setback
 419,NOT IMPLEMENTED FOR 2 OR MORE WORDS,пройти через,to follow through
 420,NOT IMPLEMENTED FOR 2 OR MORE WORDS,відкласти,to put off
 421,NOT IMPLEMENTED FOR 2 OR MORE WORDS,в прізвисько часу,in the nick of time
 422,(law) an agreement or concession made by parties in a judicial proceeding (or by their attorneys) relating to the business before the court; must be in writing unless they are part of the court record,обумовленість,stipulation
 423,"terminate, end, or take out", ліквідувати, to eliminate
 424,"gather, as of natural products",жати,to reap
-425,NOT IMPLEMENTED FOR 2 OR MORE WORDS,галочка,a hitch
+425,a period of time spent in military service,галочка,a hitch
 426,NO MEANING FOUND,неприборканий,unpretensious
 427,hold back,обтяжувати,to encumber
 428,cause to start burning; subject to fire or great heat,запалити,to ignite
 429,concluding state of pregnancy; from the onset of contractions to the birth of a child,ув'язнення,confinement
 430,NOT IMPLEMENTED FOR 2 OR MORE WORDS,розрізати вільно,to cut loose
 431,a roundabout road (especially one that is used temporarily while a main route is blocked),Об’їзд,detour
-432,NOT IMPLEMENTED FOR 2 OR MORE WORDS,помилка,a blunder
-433,NOT IMPLEMENTED FOR 2 OR MORE WORDS,кладовище,a graveyard
+432,an embarrassing mistake,помилка,a blunder
+433,a tract of land used for burials,кладовище,a graveyard
 434,avoid and stay away from deliberately; stay clear of,щоб уникнути,to shun
 435,follow stealthily or recur constantly and spontaneously to,переслідувати,to haunt
-436,NOT IMPLEMENTED FOR 2 OR MORE WORDS,дурниця,a hunch
+436,an impression that something might be the case,дурниця,a hunch
 437,someone who broadcasts the news,журналіст,newscaster
 438,excrete perspiration through the pores in the skin,просити,to perspire
 439,make a doodle; draw aimlessly,до каракулі,to doodle
@@ -478,7 +478,7 @@
 476,NOT IMPLEMENTED FOR 2 OR MORE WORDS,притиснути до,to snip at
 477,an open skin infection,болить,sore
 478,fail to get a passing grade,флункінг,flunking
-479,NOT IMPLEMENTED FOR 2 OR MORE WORDS,перелом,a fracture
+479,breaking of hard tissue such as bone,перелом,a fracture
 480,"evaluate or estimate the nature, quality, ability, extent, or significance of",оцінити,to appraise
 481,NOT IMPLEMENTED FOR 2 OR MORE WORDS,бути лизати,to be licked
 482,NOT IMPLEMENTED FOR 2 OR MORE WORDS,купатися кого-л,to coodle smb
@@ -492,7 +492,7 @@
 490,of or relating to or caused by magnetism,магнітний,magnetic
 491,NOT IMPLEMENTED FOR 2 OR MORE WORDS,відступити,to back off
 492,NOT IMPLEMENTED FOR 2 OR MORE WORDS,водяний шланг,water hose
-493,NOT IMPLEMENTED FOR 2 OR MORE WORDS,галстук,a snag
+493,a sharp protuberance,галстук,a snag
 494,an outward semblance that misrepresents the true nature of something,маскувати,disguise
 495,NOT IMPLEMENTED FOR 2 OR MORE WORDS,дитяча місяць,baby moon
 496,filled or abounding with fog or mist,туманний,hazy
@@ -503,13 +503,13 @@
 501,fraught with uncertainty or doubt,сумнівний,dubious
 502,the descendants of one individual,родовід,pedigree
 503,NOT IMPLEMENTED FOR 2 OR MORE WORDS,застрягти,to stuck up
-504,NOT IMPLEMENTED FOR 2 OR MORE WORDS,креслення,a blueprint
+504,something intended as a guide for making something else,креслення,a blueprint
 505,NO MEANING FOUND,dimestores,dimestores
 506,turn sharply; change direction abruptly,чистий,sheer
 507,NO MEANING FOUND,гек,heck
 508,designating the generation of organisms from which hybrid offspring are produced,батьківський,parental
 509,a quantity of no importance,zip,zip
-510,NOT IMPLEMENTED FOR 2 OR MORE WORDS,недуга,an ailment
+510,an often persistent bodily disorder or disease; a cause for complaining,недуга,an ailment
 511,fix firmly or securely,укорінений,entrenched
 512,(used to introduce a logical conclusion) from that fact or reason or as a result,отже,hence
 513,not clearly understood or expressed,неясний,vague
@@ -538,9 +538,9 @@
 536,NOT IMPLEMENTED FOR 2 OR MORE WORDS,затримати,to stash away
 537,NOT IMPLEMENTED FOR 2 OR MORE WORDS,триматися в курсі,to keep abreast
 538,"form in clay, wax, etc",формувати,to mold
-539,NOT IMPLEMENTED FOR 2 OR MORE WORDS,обід,a luncheon
+539,a midday meal,обід,a luncheon
 540,an actor's line that immediately precedes and serves as a reminder for some action or speech,кий,cue
-541,NOT IMPLEMENTED FOR 2 OR MORE WORDS,підсумок,a recap
+541,a summary at the end that repeats the substance of a longer discussion,підсумок,a recap
 542,cause to move by pulling,тягнути,to pull 
 543,NOT IMPLEMENTED FOR 2 OR MORE WORDS,поштовх до,to push for
 544,have a conference in order to talk something over,присудити,to confer
@@ -550,34 +550,34 @@
 548,fall loosely,на флопе,to flop
 549,"treat, mention, or speak to rudely",ображати,to insult
 550,past due; not paid at the scheduled time,прострочений,overdue
-551,NOT IMPLEMENTED FOR 2 OR MORE WORDS,запобіжник,a fuse
+551,an electrical device that can interrupt the flow of electrical current when it is overloaded,запобіжник,a fuse
 552,cover as if with a blanket,до ковдру,to blanket
 553,rule against,відкинутий,overruled
-554,NOT IMPLEMENTED FOR 2 OR MORE WORDS,тиран,a tyrant
+554,a cruel and oppressive dictator,тиран,a tyrant
 555,"go with, fall together",збігатися,to coincide
-556,NOT IMPLEMENTED FOR 2 OR MORE WORDS,вміння,an aptitude
+556,inherent ability,вміння,an aptitude
 557,extremely well,чудово,magnificently
 558,following accepted customs and proprieties,звичайний,conventional
 559,having a good reputation,авторитетний,reputable
 560,of or relating to a vocation or occupation; especially providing or undergoing training in special skills,Професійна,vocational
 561,NOT IMPLEMENTED FOR 2 OR MORE WORDS,скинути на,to dump on
-562,NOT IMPLEMENTED FOR 2 OR MORE WORDS,скремблер,a scrambler
+562,a rapid mover; someone who scrambles,скремблер,a scrambler
 563,covering (padding and springs and webbing and fabric) on a piece of furniture,оббивка,upholstery
 564,a person who is physically weak and ineffectual,слабкий,weakling
 565,a black resinous substance obtained from certain trees and used as a natural varnish,лак,lacquer
 566,"cause (a liquid) to spatter about, especially with force",сплеск,to splash
 567,walk as if unable to control one's movements,погладжувати,to stagger
 568,humble in spirit or manner; suggesting retiring mildness or even cowed submissiveness,лагідний,meek
-569,NOT IMPLEMENTED FOR 2 OR MORE WORDS,вилка,a plug
+569,blockage consisting of an object designed to fill a hole tightly,вилка,a plug
 570,cause the downfall of; of rulers,повалений,overthrown
 571,be larger in number,перевищити,to outnumber
-572,NOT IMPLEMENTED FOR 2 OR MORE WORDS,світогляд,an outlook
+572,a habitual or characteristic mental attitude that determines how you will interpret and respond to situations,світогляд,an outlook
 573,a distinct feature or element in a problem,хлопець,facet
 574,NO MEANING FOUND,для ремонту,to refigure
 575,make revisions in,переглядати,to revise
 576,NOT IMPLEMENTED FOR 2 OR MORE WORDS,розібрати,to map out
-577,NOT IMPLEMENTED FOR 2 OR MORE WORDS,Спітбол,a spitball
-578,NOT IMPLEMENTED FOR 2 OR MORE WORDS,правопорушник,a delinquent
+577,a projectile made by chewing a piece of paper and shaping it into a sphere,Спітбол,a spitball
+578,a young offender,правопорушник,a delinquent
 579,characterized by forceful and energetic action or activity,енергійний,vigorous
 580,characterized by or showing the suppression of impulses or emotions,придушений,pent-up
 581,lacking spirit or liveliness,безнадійний,lackadaisical
