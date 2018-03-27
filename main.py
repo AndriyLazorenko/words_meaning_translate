@@ -10,9 +10,10 @@ from mtranslate import translate
 class MeaningTranslator:
     def __init__(self):
         self.df = pd.read_csv("in.csv", header=None)
-        self.demo = df[1].dropna()
+        self.demo = self.df[1].dropna()
 
-    def get_meanings(self, words):
+    @staticmethod
+    def get_meanings(words):
         ret = list()
         for word in words:
             w_list = word.split()
@@ -22,18 +23,26 @@ class MeaningTranslator:
                     ret.append(w.definitions[0])
                 except:
                     ret.append('NO MEANING FOUND')
-            elif w_list[0] == 'to' and len(w_list) == 2:
-                w = Word(w_list[1])
-                try:
-                    v = w.get_synsets(pos=VERB)
-                    ret.append(v[0].definition())
-                except:
-                    ret.append('NO MEANING FOUND')
+            elif len(w_list) == 2:
+                if w_list[1] == 'to':
+                    w = Word(w_list[1])
+                    try:
+                        v = w.get_synsets(pos=VERB)
+                        ret.append(v[0].definition())
+                    except:
+                        ret.append('NO MEANING FOUND')
+                elif w_list[1] == 'a' or w_list[1] == 'an':
+                    w = Word(w_list[1])
+                    try:
+                        ret.append(w.definitions[0])
+                    except:
+                        ret.append('NO MEANING FOUND')
             else:
                 ret.append('NOT IMPLEMENTED FOR 2 OR MORE WORDS')
         return ret
 
-    def get_translations(self, words):
+    @staticmethod
+    def get_translations(words):
         ret = list()
         num_words = len(words)
         i = 0
@@ -50,7 +59,8 @@ class MeaningTranslator:
 
         return ret
 
-    def form_dict(self, words, meanings, translations):
+    @staticmethod
+    def form_dict(words, meanings, translations):
         out = dict()
         out['words'] = words
         out['meanings'] = meanings
